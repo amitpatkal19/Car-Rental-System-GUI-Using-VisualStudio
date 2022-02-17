@@ -1,0 +1,14 @@
+C:\Users\amitp\OneDrive\Desktop\Visual Studio Applications\CarRental\CarRental\Debug\CarRental.vcxproj.AssemblyReference.cache
+C:\Users\amitp\OneDrive\Desktop\Visual Studio Applications\CarRental\CarRental\Debug\CarRental.vcxproj.CopyComplete
+C:\Users\amitp\OneDrive\Desktop\Visual Studio Applications\CarRental\CarRental\Debug\CarRental.AddCar.resources
+C:\Users\amitp\OneDrive\Desktop\Visual Studio Applications\CarRental\CarRental\Debug\CarRental.DaleteCar.resources
+C:\Users\amitp\OneDrive\Desktop\Visual Studio Applications\CarRental\CarRental\Debug\CarRental.DefaulterCustomers.resources
+C:\Users\amitp\OneDrive\Desktop\Visual Studio Applications\CarRental\CarRental\Debug\CarRental.DeleteAndUpdate.resources
+C:\Users\amitp\OneDrive\Desktop\Visual Studio Applications\CarRental\CarRental\Debug\CarRental.HandleCarDetails.resources
+C:\Users\amitp\OneDrive\Desktop\Visual Studio Applications\CarRental\CarRental\Debug\CarRental.Homepage1.resources
+C:\Users\amitp\OneDrive\Desktop\Visual Studio Applications\CarRental\CarRental\Debug\CarRental.MyForm.resources
+C:\Users\amitp\OneDrive\Desktop\Visual Studio Applications\CarRental\CarRental\Debug\CarRental.RentCar.resources
+C:\Users\amitp\OneDrive\Desktop\Visual Studio Applications\CarRental\CarRental\Debug\CarRental.Returncar1.resources
+C:\Users\amitp\OneDrive\Desktop\Visual Studio Applications\CarRental\CarRental\Debug\CarRental.vcxproj.GenerateResource.cache
+C:\Users\amitp\OneDrive\Desktop\Visual Studio Applications\CarRental\CarRental\Debug\CarRental.RentalHistory.resources
+C:\Users\amitp\OneDrive\Desktop\Visual Studio Applications\CarRental\CarRental\Debug\CarRental.ShowAllCars1.resources

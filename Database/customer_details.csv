@@ -1,0 +1,16 @@
+id,name,licence,phone,rental_days,rental_date,car_id,actual_rd,return_status
+3,aaa,dsds,dsfdsfds,1,2021-06-27,5,22,YES
+4,aaa,dsds,dsfdsfds,2,2021-06-27,5,2,NO
+5,adsda,1221,121,3,2021-06-29,5,14,YES
+6,sdas,dasdas,sadsad,3,2021-06-30,4,102,NO
+7,Amit,124,567,1,2021-06-30,6,0,NO
+8,h,87,968,2,2021-06-30,,NULL,NO
+9,h,87,968,2,2021-06-30,6,0,YES
+10,sdas,sdasd,sdasa,2,2021-07-01,4,NULL,NO
+11,Pratik,87687,423434,2,2021-07-13,5,NULL,NO
+12,Nitish,435444,98774979,2,2021-07-13,5,NULL,NO
+13,amm,22222,243434,3,2021-07-13,6,NULL,NO
+14,Amit,87868,98887711,1,2021-07-13,6,NULL,NO
+15,hhh,65,765,4,2021-07-13,6,NULL,NO
+16,bbb,222,222,3,2021-07-13,6,NULL,NO
+17,zuxxy,33,33,2,2021-07-13,6,NULL,NO

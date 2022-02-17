@@ -1,0 +1,22 @@
+﻿  Homepage1.cpp
+C:\Users\amitp\OneDrive\Desktop\Visual Studio Applications\CarRental\CarRental\ShowAllCars1.h(132,24): warning C4101: 'myReader': unreferenced local variable
+C:\Users\amitp\OneDrive\Desktop\Visual Studio Applications\CarRental\CarRental\DefaulterCustomers.h(131,20): warning C4101: 'myReader': unreferenced local variable
+C:\Users\amitp\OneDrive\Desktop\Visual Studio Applications\CarRental\CarRental\DefaulterCustomers.h(156,20): warning C4101: 'myReader': unreferenced local variable
+C:\Users\amitp\OneDrive\Desktop\Visual Studio Applications\CarRental\CarRental\RentalHistory.h(111,20): warning C4101: 'myReader': unreferenced local variable
+C:\Users\amitp\OneDrive\Desktop\Visual Studio Applications\CarRental\CarRental\RentalHistory.h(136,20): warning C4101: 'myReader': unreferenced local variable
+  MyForm.cpp
+C:\Users\amitp\OneDrive\Desktop\Visual Studio Applications\CarRental\CarRental\ShowAllCars1.h(132,24): warning C4101: 'myReader': unreferenced local variable
+C:\Users\amitp\OneDrive\Desktop\Visual Studio Applications\CarRental\CarRental\DefaulterCustomers.h(131,20): warning C4101: 'myReader': unreferenced local variable
+C:\Users\amitp\OneDrive\Desktop\Visual Studio Applications\CarRental\CarRental\DefaulterCustomers.h(156,20): warning C4101: 'myReader': unreferenced local variable
+C:\Users\amitp\OneDrive\Desktop\Visual Studio Applications\CarRental\CarRental\RentalHistory.h(111,20): warning C4101: 'myReader': unreferenced local variable
+C:\Users\amitp\OneDrive\Desktop\Visual Studio Applications\CarRental\CarRental\RentalHistory.h(136,20): warning C4101: 'myReader': unreferenced local variable
+  Returncar1.cpp
+  Source.cpp
+C:\Users\amitp\OneDrive\Desktop\Visual Studio Applications\CarRental\CarRental\ShowAllCars1.h(132,24): warning C4101: 'myReader': unreferenced local variable
+C:\Users\amitp\OneDrive\Desktop\Visual Studio Applications\CarRental\CarRental\DefaulterCustomers.h(131,20): warning C4101: 'myReader': unreferenced local variable
+C:\Users\amitp\OneDrive\Desktop\Visual Studio Applications\CarRental\CarRental\DefaulterCustomers.h(156,20): warning C4101: 'myReader': unreferenced local variable
+C:\Users\amitp\OneDrive\Desktop\Visual Studio Applications\CarRental\CarRental\RentalHistory.h(111,20): warning C4101: 'myReader': unreferenced local variable
+C:\Users\amitp\OneDrive\Desktop\Visual Studio Applications\CarRental\CarRental\RentalHistory.h(136,20): warning C4101: 'myReader': unreferenced local variable
+  Generating Code...
+  AddCar.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  CarRental.vcxproj -> C:\Users\amitp\OneDrive\Desktop\Visual Studio Applications\CarRental\Debug\CarRental.exe

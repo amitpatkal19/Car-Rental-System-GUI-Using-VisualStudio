@@ -1,0 +1,137 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="CustomerHistory.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Returncar1.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="AddCar.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="DaleteCar.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="DefaulterCustomers.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="DeleteAndUpdate.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="HandleCarDetails.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Homepage.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Homepage1.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="MyForm.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="RentCar.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Source.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="MyForm2.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="RentalHistory.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ShowAllCars1.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="CustomerHistory.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Returncar1.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="AddCar.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="DaleteCar.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="DefaulterCustomers.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="DeleteAndUpdate.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="HandleCarDetails.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Homepage1.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="MyForm.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="MyForm1.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="RentCar.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="MyForm2.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="RentalHistory.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="ShowAllCars1.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Returncar1.resx">
+      <Filter>Source Files</Filter>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AddCar.resx">
+      <Filter>Source Files</Filter>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DaleteCar.resx">
+      <Filter>Source Files</Filter>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DefaulterCustomers.resx">
+      <Filter>Source Files</Filter>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DeleteAndUpdate.resx">
+      <Filter>Source Files</Filter>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HandleCarDetails.resx">
+      <Filter>Source Files</Filter>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Homepage1.resx">
+      <Filter>Source Files</Filter>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MyForm.resx">
+      <Filter>Source Files</Filter>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RentCar.resx">
+      <Filter>Source Files</Filter>
+    </EmbeddedResource>
+  </ItemGroup>
+</Project>
